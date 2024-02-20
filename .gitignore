@@ -1,0 +1,11 @@
+*.pdf
+/comprovantes/*.pdf
+/comprovantes/*.jpg
+/comprovantes/*.png
+/comprovantes/*.rar
+/comprovantes/*.html
+
+
+__pycache__
+*.env
+.env
