@@ -261,3 +261,4 @@ while True:
 # Código ✔
 # Pin ✔
 # Comprovante ✔
+# OK ✔
